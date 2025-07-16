@@ -1,20 +1,20 @@
 # 🧾 Malla Curricular - Contador Público
 
 ## ✅ 1° Año
-- [ ] Contabilidad Básica  
+- [x] Contabilidad Básica  
 - [ ] Matemática I  
-- [ ] Derecho Constitucional  
-- [ ] Metodología de las Cs. Sociales  
-- [ ] Principios de Administración  
-- [ ] Historia Económica  
+- [x] Derecho Constitucional  
+- [x] Metodología de las Cs. Sociales  
+- [x] Principios de Administración  
+- [x] Historia Económica  
 
 ## ✅ 2° Año
 - [ ] Técnicas de Valuación *(correlativa: Contabilidad Básica)*  
 - [ ] Matemática II *(correlativa: Matemática I)*  
 - [ ] Introducción a la Economía *(correlativa: Matemática I)*  
 - [ ] Derecho Civil *(correlativa: Derecho Constitucional)*  
-- [ ] Organización y Estructuras *(correlativa: Principios de Administración)*  
-- [ ] Tecnología de la Información y Comunicación *(correlativa: Principios de Administración)*  
+- [x] Organización y Estructuras *(correlativa: Principios de Administración)*  
+- [x] Tecnología de la Información y Comunicación *(correlativa: Principios de Administración)*  
 - [ ] Comportamiento Organizacional *(correlativa: Organización y Estructuras)*  
 - [ ] Sistemas de Información *(correlativa: Organización y Estructuras)*  
 
